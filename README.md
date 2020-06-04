@@ -19,9 +19,8 @@ $ pip install tensorflow(or any other package name)
 # Results
 
 * 4
-![content](https://github.com/1sh1vam/)
-![Style](https://github.com/1sh1vam/)
-![Output](https://github.com/1sh1vam/)
+![result](https://github.com/1sh1vam/Face-Mask-Detection/blob/master/Data/result.gif)
+
 
 # Reference
 [DataSet](https://github.com/prajnasb/observations/tree/master/experiements/data)
