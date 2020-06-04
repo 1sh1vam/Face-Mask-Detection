@@ -26,4 +26,3 @@ $ pip install tensorflow(or any other package name)
 
 
 [Original Video that I used to show result](https://www.youtube.com/watch?v=b1Y3FSAxj3g)
-
