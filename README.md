@@ -18,7 +18,6 @@ $ pip install tensorflow(or any other package name)
 
 # Results
 
-* 4
 ![result](https://github.com/1sh1vam/Face-Mask-Detection/blob/master/Data/result.gif)
 
 
