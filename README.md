@@ -28,7 +28,7 @@ To detect mask on your video change the path of cv.VideoCapture("Path of your Vi
 There is always a scope of improvement in any project. Few ways to improve this project are:
 * Using "Temperature Sensor" to restrict people whose body temperature is above normal body temperature e.g 100.
 * Use "Distance Measuring Sensors" to ensure social distancing.
-If you think there can be more ways to improve this system please write to me(https://www.linkedin.com/in/1sh1vam/)
+If you think there can be more ways to improve this system please write to me on [LinkedIn](https://www.linkedin.com/in/1sh1vam/).
 
 
 # Reference
