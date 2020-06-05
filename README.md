@@ -18,7 +18,7 @@ $ pip install tensorflow(or any other package name)
 # Usage
 If you want to train the model then change the path in "split_data" function of face_mask_detection.py/face_mask_detection.ipynb file.
 
-To detect mask on your video change the path of cv.VideoCapture("Path of your Video") in detection.ipynb/detect.py. And then run python file to detect masks.
+To detect mask on your video change the path of cv.VideoCapture("Path of your Video") in detection.ipynb/detection.py. And then run python file to detect masks.
 
 # Results
 
