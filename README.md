@@ -1,6 +1,6 @@
 # Face Mask Detection
 
-Implementation of Face Mask Detection to restrict people without wearing a mask from entering inside any mall or airport etc. We have used Tensorflow, Keras and opencv to implement this.
+Implementation of Face Mask Detection to restrict people not wearing a mask from entering inside any mall or airport etc. We have used Tensorflow, Keras and opencv to implement this.
 
 # Requirements
 
